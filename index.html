@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Formulario de Busqueda</title>
+</head>
+<body onload="cargarXML()">
+    <form>
+        <label for="cedula">Cedula:</label>
+        <br>
+        <input type="text" name="cedula" id="cedula">
+        <br>
+        <label for="placa">Placa:</label>
+        <br>
+        <input type="text" name="placa" id="placa">
+        <br>
+        <label for="marca">Marca:</label>
+         <br>
+        <input type="text" name="marca" id="marca">
+        <br>
+        <label for="modelo">Modelo:</label>
+        <br>
+        <input type="text" name="modelo" id="modelo">
+        <br>
+        <br>
+        <ul id="lista">
+        <!-- Some code  -->
+        </ul>
+    </form>
+    <button id="buscar" onclick="buscar()">Buscar</button>
+    <button>Carga datos</button>
+    <script type="text/javascript" src="js/app.js"></script>
+</body>
+</html>

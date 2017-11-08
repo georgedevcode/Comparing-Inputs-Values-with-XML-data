@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOGO>
+    <CD>
+        <NOMBRE>JORGE</NOMBRE>
+        <CEDULA>206810942</CEDULA>
+        <PLACA>BNL-058</PLACA>
+        <MARCA>CHEVROLET</MARCA>
+        <PRECIO>¢50000</PRECIO>
+        <MODELO>2017</MODELO>
+        <COLOR>ROJO</COLOR>
+        <ESTILO>AUTOMOVIL</ESTILO>
+    </CD>
+</CATALOGO>
